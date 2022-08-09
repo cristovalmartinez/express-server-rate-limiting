@@ -67,4 +67,4 @@ Super simple, awesome Express v4.18 server.
 [instagram-shield]: https://img.shields.io/badge/instagram-orange?style=flat&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/cristhedev/
 [website-shield]: https://img.shields.io/badge/website-gray?style=flat&logo=stylelint&logoColor=white
-[website-url]: https://www.cristhedev.com
+[website-url]: http://www.cristhedev.com
