@@ -2,7 +2,7 @@
 <div>
 <br>
 <div align="center"> 
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="350" alt="nodejs server" />
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="350" alt="express logo" />
 </div>
 
 <h1>Express Starter</h1>
