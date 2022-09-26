@@ -17,7 +17,7 @@
 ### :dart: Getting Started
 
 <p>
-Super simple, awesome Express v4.18 server. 
+Simple, awesome Express v4.18 server. 
 </p>
 
 
