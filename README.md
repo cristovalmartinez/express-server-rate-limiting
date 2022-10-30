@@ -17,14 +17,14 @@
 ### :dart: Getting Started
 
 <p>
-Simple, awesome Express v4.18 server. 
+Basic Express server (v4.18). 
 </p>
 
 
 <div align="left">
 
 ```
-1. cd express-boilerplate
+1. cd express-server
 2. npm install && npm i nodemon -D && npm start
 ```
 </div>
