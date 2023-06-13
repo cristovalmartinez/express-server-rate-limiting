@@ -1,4 +1,4 @@
-import welcomeApi from '../welcomeApi/route.js'
+import welcomeApi from "../gateway/route.js"
 
 const routes = [welcomeApi]
 

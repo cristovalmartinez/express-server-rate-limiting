@@ -1,3 +1,6 @@
+Certainly! Here's the complete README file with all the content in a single code block:
+
+````markdown
 <div align="center">
 <div>
 <br>
@@ -5,66 +8,86 @@
   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="350" alt="express logo" />
 </div>
 
-<h1>Express Starter</h1>
+<h1>Express Ecommerce Server</h1>
 
-> <p>By: Cristoval M. </p>
+> <p>By: Cristoval M.</p>
+> <br>
+> <br>
+
 <br>
 <br>
 
-<br>
-<br>
+## :dart: Getting Started
 
-### :dart: Getting Started
+This is a production-ready Node.js Express server for an ecommerce store. It includes rate limiting functionality to protect against abuse and malicious attacks.
 
-<p>
-Basic Express server (v4.18). 
-</p>
+### Installation
 
+1. Clone the repository:
 
-<div align="left">
+   ```bash
+   git clone https://github.com/cristovalmartinez/express-server-rate-limiting.git
+   ```
+````
 
-```
-1. cd express-server
-2. npm install && npm i nodemon -D && npm start
-```
-</div>
+2. Install the dependencies:
 
-### :space_invader: Modules
+   ```bash
+   cd express--rate-limiting
+   npm install
+   ```
 
+3. Start the server:
 
-- [express](https://www.npmjs.com/package/express)
-- [body-parser](https://www.npmjs.com/package/body-parser)
-- [cookie-parser](https://www.npmjs.com/package/cookie-parser)
-- [cors](https://www.npmjs.com/package/cors)
-- [helmet](https://www.npmjs.com/package/helmet)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [morgan](https://www.npmjs.com/package/morgan)
+   ```bash
+   npm start
+   ```
 
-</div>
+The server will start running on the specified port or the default port `6699`. You can access it at `http://localhost:6699`.
+
+## Features
+
+- Handles rate limiting/throttling to prevent excessive requests.
+- Uses TypeScript for improved code maintainability and scalability.
+- Integrates with popular middleware packages such as `body-parser`, `cookie-parser`, `cors`, and `helmet`.
+- Includes a default route handler for unknown routes.
+- Provides error handling middleware to catch and handle server errors.
+
+### Configuration
+
+The server can be configured through environment variables. Create a `.env` file in the root directory and define the following variables:
+
+- `NODE_ENV` - Set it to `development` or `production` depending on the environment.
+- `PORT` - Specify the port number to run the server on (default is `6699`).
+
+## API Documentation
+
+The server exposes REST API endpoints for the ecommerce store. Refer to the API documentation for details on each endpoint.
+
+### Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 </br>
 
- #### Let's connect
-
+#### Let's connect
 
 [![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
 
 </div>
 
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge -->
-<!-- [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors -->
-<!-- [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge -->
-<!-- [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/cristoval
 [instagram-shield]: https://img.shields.io/badge/instagram-orange?style=flat&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/cristhedev/
 [website-shield]: https://img.shields.io/badge/website-gray?style=flat&logo=stylelint&logoColor=white
 [website-url]: http://www.cristhedev.com
+
+```
+
+```
