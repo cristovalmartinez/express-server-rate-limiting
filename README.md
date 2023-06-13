@@ -82,9 +82,9 @@ This project is licensed under the [MIT License](LICENSE).
 [linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/cristoval
 [instagram-shield]: https://img.shields.io/badge/instagram-orange?style=flat&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/cristhedev/
+[instagram-url]: https://www.instagram.com/cristoval.m/
 [website-shield]: https://img.shields.io/badge/website-gray?style=flat&logo=stylelint&logoColor=white
-[website-url]: http://www.cristhedev.com
+[website-url]: http://www.cristovalmartinez.com
 
 ```
 
