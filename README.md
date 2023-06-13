@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 <div>
 <br>
@@ -62,6 +61,7 @@ This is a production-ready Node.js Express server for an ecommerce store. It inc
    ```bash
    git clone https://github.com/cristovalmartinez/express-server-rate-limiting.git
    ```
+
 ````
 
 2. Install the dependencies:
@@ -134,3 +134,4 @@ This project is licensed under the [MIT License](LICENSE).
 [instagram-url]: https://www.instagram.com/cristoval.m/
 [website-shield]: https://img.shields.io/badge/website-gray?style=flat&logo=stylelint&logoColor=white
 [website-url]: https://www.cristovalmartinez.com
+````
